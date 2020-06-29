@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(105, 105, 241);
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h3 {
+  display: inline-block;
+  padding-right: 50px;
+  text-decoration: underline;
+}
+div {
+  position: left;
+  left: 80px;
+  top: 2px;
+  padding: left;
+}
+table {
+  text-decoration: underline;
+  word-spacing: 30px;
+}
+footer {
+  font-size: x-large;
+  font-weight: bold;
+  float: right;
+  padding-bottom: 50%;
+}
